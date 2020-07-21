@@ -1,0 +1,145 @@
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll.config
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.pdb
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\GreenPipes.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\MassTransit.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\NewId.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\System.ValueTuple.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\GreenPipes.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\MassTransit.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\NewId.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\bin\Debug\System.ValueTuple.xml
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CoreCompileInputs.cache
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CopyComplete
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.dll
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.pdb
+C:\Users\agubran\source\repos\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csprojAssemblyReference.cache
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll.config
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.pdb
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\GreenPipes.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\NewId.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\System.ValueTuple.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\GreenPipes.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\NewId.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\System.ValueTuple.xml
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CoreCompileInputs.cache
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CopyComplete
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.dll
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.pdb
+C:\Users\agubran\source\repos\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csprojAssemblyReference.cache
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll.config
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.pdb
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\GreenPipes.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\NewId.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\System.ValueTuple.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\GreenPipes.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\NewId.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\System.ValueTuple.xml
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csprojAssemblyReference.cache
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CoreCompileInputs.cache
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CopyComplete
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.dll
+C:\Users\agubran\Desktop\Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.pdb
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll.config
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.pdb
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\GreenPipes.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\NewId.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\System.ValueTuple.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\GreenPipes.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\NewId.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\System.ValueTuple.xml
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csprojAssemblyReference.cache
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CoreCompileInputs.cache
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CopyComplete
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.dll
+C:\Users\agubran\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.pdb
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll.config
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.pdb
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\GreenPipes.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\NewId.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\System.ValueTuple.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\GreenPipes.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\NewId.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\bin\Debug\System.ValueTuple.xml
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csprojAssemblyReference.cache
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CopyComplete
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.dll
+C:\Users\Huawei\OneDrive\My Thiqah Sessions\RabbitMQ\Test\RabbitMQ.Producer\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.pdb
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll.config
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.dll
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Messages.pdb
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\GreenPipes.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\MassTransit.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\MassTransit.RabbitMqTransport.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\NewId.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\RabbitMQ.Client.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\bin\Debug\System.ValueTuple.xml
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csprojAssemblyReference.cache
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.csproj.CopyComplete
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.dll
+D:\Tutorial\RabbitMq\RabbitMQ\RabbitMQ.Messages\obj\Debug\RabbitMQ.Messages.pdb
